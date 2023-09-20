@@ -2,26 +2,14 @@
 
 # dependencies
 /fron-end/node_modules
-/fron-end/.pnp
-/fron-end/pnp.js
 
 /back-end/node_modules
 /back-end/.pnp
 /back-end/pnp.js
 /back-end/.env
 
-# testing
-/fron-end/coverage
-
 # production
 /fron-end/build
-
-# misc
-/fron-end/DS_Store
-/fron-end/env.local
-/fron-end/env.development.local
-/fron-end/env.test.local
-/fron-end/env.production.local
 
 npm-debug.log*
 yarn-debug.log*
